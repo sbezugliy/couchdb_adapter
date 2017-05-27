@@ -46,6 +46,8 @@ defmodule CouchDB.Mixfile do
 
   defp description do
     """
+    Not usable yet
+    WIP!
     CouchDB RESP API client for Elixir and Phoenix.
     """
   end
