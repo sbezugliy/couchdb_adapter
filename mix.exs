@@ -9,6 +9,7 @@ defmodule CouchDB.Mixfile do
      start_permanent: Mix.env == :prod,
      package: package(),
      description: description(),
+     source: "https://github.com/sbezugliy/couchdb_adapter.git",
      deps: deps(),
      dialyzer: [plt_add_apps: [:poison],
      plt_add_deps: :project]

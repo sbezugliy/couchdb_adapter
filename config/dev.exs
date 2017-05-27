@@ -7,7 +7,7 @@ config :couchdb_adapter,
   admin_port:    "5986",
   database: "emporium_dev",
   cluster: true,
-  cluster_master_hostname: "172.17.0.2"
+  cluster_master_hostname: "172.17.0.2",
   node_name: "node1@172.16.0.2",
 
   auth_type: :oauth,
