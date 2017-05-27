@@ -1,9 +1,8 @@
 # couchdb_adapter
 
 Apache CouchDB RESP API client for Elixir.
-
+__Not usable yet__
 __WIP!__
-
 ECTO compatibility impossible cause CouchDB is document oriented database.
 
 * Supported versions:
