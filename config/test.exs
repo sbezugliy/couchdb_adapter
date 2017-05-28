@@ -10,7 +10,7 @@ config :couchdb_adapter,
 
   server_admin: :true,
   server_admin_username: "couchadmin",
-  server_admin_password: "GHtWtCCbz",
+  server_admin_password: "supersecret",
 
   db_admin: :true,
   db_admin_username: "dbadmin",
